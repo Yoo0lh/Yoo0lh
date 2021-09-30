@@ -1,4 +1,4 @@
-<img src="img/4374974%20(1).jpg" alt="alt text" width="500" height="100"/>
+<img src="img/4374974%20(1).jpg" alt="alt text" width="1000" height="200"/>
 </br>
 <h1 align="center">Hi 👋, I'm yoo</h1>
 
