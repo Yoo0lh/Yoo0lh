@@ -1,5 +1,5 @@
 <img src="img/4374974%20(1).jpg" alt="alt text" width="1000" height="250"/>
-<h1 align="center">Hi 👋, I'm yoo</h1>
+<h1 align="center">Hi 👋, I'm chabana</h1>
 
 - 🔭 I’m currently working on **data structure**
 
